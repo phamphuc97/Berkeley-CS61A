@@ -6,7 +6,7 @@ The Cat Project (a.k.a Autocorrected Typing Software) is a programming project t
 
 To use the typing program, first, clone or download the repository to your local machine.
 
-The main program is cats_gui.py. You can run the program by opening a terminal window in the directory where the program is saved and typing python cats_gui.py.
+The main program is ```cats_gui.py```. You can run the program by opening a terminal window in the directory where the program is saved and typing python ```cats_gui.py```.
 
 The program will then display text passage to practice typing. You can generate a new text passage by clicking the Restart button.
 
